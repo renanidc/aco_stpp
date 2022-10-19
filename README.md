@@ -1,7 +1,7 @@
 # ACO STTP
 ## Descrição
 
-Esse repositório contém uma implementação do STTP usando técnicas de ACO para solução do problema.
+Esse repositório contém uma implementação de ACO para a solução de STPP.
 
 ## Features
 
